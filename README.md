@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 <img src="https://github.com/JCriz01/JCriz01/assets/96634701/cb1501f2-8c20-4abf-ad7e-f97445e4e2aa" alt="banner">
+-->
+Hi, my name is Jesse and I am an aspiring fullstack developer. This github is more like a collection of programs and projects that will showcase how I improve over time.
+
+
+
+
