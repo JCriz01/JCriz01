@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/JCriz01/JCriz01/assets/96634701/dcb6db70-da26-43bf-a108-baeaf03d2497" alt="banner">
+<img src="https://github.com/JCriz01/JCriz01/assets/96634701/cb1501f2-8c20-4abf-ad7e-f97445e4e2aa" alt="banner">
