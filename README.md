@@ -30,3 +30,5 @@ Hi my name is Jesse, I am an upcoming Junior in College and an aspiring fullstac
 
 
 [![JCriz01's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCriz01)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCriz01)](https://github.com/anuraghazra/github-readme-stats)
