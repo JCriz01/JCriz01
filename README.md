@@ -20,7 +20,7 @@ Hi my name is Jesse, I am an upcoming Junior in College and an aspiring fullstac
 ## Reach me
 
 <a href="https://www.linkedin.com/in/jesse-crispin-154b98271/">
-  <img src="https://user-images.githubusercontent.com/96634701/244837794-e15b90af-1200-4412-ab15-b8e9568176d1.svg" alt="linkedin" height="24px">
+  <img src="https://user-images.githubusercontent.com/96634701/244837794-e15b90af-1200-4412-ab15-b8e9568176d1.svg" alt="linkedin" height="26px">
 </a>
 
 
