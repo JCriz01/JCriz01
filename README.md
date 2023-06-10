@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Hi my name is Jesse, I am an upcoming Junior in College and an aspiring fullstack developer. This github is more like a collection of programs and projects that will showcase how I improve over time.
 
 ## Reach me
+
 <a href="https://www.linkedin.com/in/jesse-crispin-154b98271/"><img src="https://github.com/JCriz01/JCriz01/assets/96634701/7dda0664-c581-4517-93ca-4dd5138cef29" alt="linkedin" height="24" width="24"> 
 
 
