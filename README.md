@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://github.com/JCriz01/JCriz01/assets/96634701/cb1501f2-8c20-4abf-ad7e-f97445e4e2aa" alt="banner">
 -->
-Hi my name is Jesse, I am an upcoming Junior in College and an aspiring fullstack developer. This github is more like a collection of programs and projects that will showcase how I improve over time.
+Hi my name is Jesse, I am an aspiring fullstack developer and a current junior in college. This github is more like a collection of programs and projects that will showcase how I improve over time.
 
 ## Reach me
 
