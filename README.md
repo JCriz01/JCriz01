@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
 <h3 align="center">an aspiring fullstack developer and a current junior in college. This github is more like a collection of programs and projects that will showcase how I improve over time.</h3>
+<img src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" align="right" alt="Coding gif" width="400">
+
+- 🔭 I’m currently working on **FullStack social media app inspired by Threads**
+
+- 🌱 I’m currently learning **Chakra UI, MongoDB**
+
+- 💬 Ask me about **JavaScript**
+
+- ⚡ Fun fact **A Bananna is a berry, but a Strawberry isn't.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +34,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+<p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcriz01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jcriz01" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcriz01&show_icons=true&theme=tokyonight&locale=en" alt="jcriz01" /></p>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcriz01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jcriz01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcriz01&show_icons=true&theme=tokyonight&locale=en" alt="jcriz01" /></p>
