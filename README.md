@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **FullStack social media app inspired by Threads**
 
-- 🌱 I’m currently learning **Chakra UI, MongoDB**
+- 🌱 I’m currently learning **Chakra UI, MongoDB, Vue.js**
 
 - 💬 Ask me about **JavaScript**
 
