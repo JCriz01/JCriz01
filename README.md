@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
-<h3 align="center">an aspiring fullstack developer and a current junior in college. This github is more like a collection of programs and projects that will showcase the projects that I develop.</h3>
+<h3 align="center">an aspiring fullstack developer and a current senior in college. This github is more like a collection of programs and projects that will showcase the projects that I develop.</h3>
 <img src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" align="right" alt="Coding gif" width="400">
 
-- 🔭 I’m currently working on **FullStack social media app inspired by Threads**
+- 🔭 I’m currently working on **Full stack cross platform chatting app**
 
-- 🌱 I’m currently learning **Chakra UI, MongoDB, Vue.js**
+- 🌱 I’m currently learning **ElectronJS, Expo**
 
 - 💬 Ask me about **JavaScript**
 
